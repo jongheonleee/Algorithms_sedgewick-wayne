@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="basic_data_structure.original.ResizingArrayStackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-25T05:00:45" hostname="userui-MacBookPro.local" time="0.034">
+  <properties/>
+  <testcase name="이터레이터 반환하는지 확인하고 해당 기능 정상적으로 수행하는지 확인" classname="basic_data_structure.original.ResizingArrayStackTest" time="0.034"/>
+  <system-out><![CDATA[banana16
+banana16
+banana15
+banana15
+banana14
+banana14
+banana13
+banana13
+banana12
+banana12
+banana11
+banana11
+banana10
+banana10
+banana9
+banana9
+banana8
+banana8
+banana7
+banana7
+banana6
+banana6
+banana5
+banana5
+banana4
+banana4
+banana3
+banana3
+banana2
+banana2
+banana1
+banana1
+banana0
+banana0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

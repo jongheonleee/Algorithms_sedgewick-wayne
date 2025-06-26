@@ -1,0 +1,1 @@
+rootProject.name = "Algorithms_sedgewick_wayne"
