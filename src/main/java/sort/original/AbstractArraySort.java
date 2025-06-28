@@ -1,7 +1,7 @@
-package sort;
+package sort.original;
 
 public abstract sealed class AbstractArraySort<T extends Comparable>
-        permits SelectionSort, InsertionSort {
+        permits SelectionSort, InsertionSort, ShellSort, MergeSortTopDown, MergeSortBottomUp, QuickSort {
 
     T[] arr;
 

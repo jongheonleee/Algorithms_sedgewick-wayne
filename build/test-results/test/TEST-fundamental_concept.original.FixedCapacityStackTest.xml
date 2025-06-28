@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fundamental_concept.original.FixedCapacityStackTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-06-28T06:20:57" hostname="userui-MacBookPro.local" time="0.032">
+  <properties/>
+  <testcase name="성공적으로 생성되는지 확인, 생성 초가애 사이즈가 0인지 확인" classname="fundamental_concept.original.FixedCapacityStackTest" time="0.02"/>
+  <testcase name="아이템 푸쉬 및 팝이 성공적으로 처리되는지 확인" classname="fundamental_concept.original.FixedCapacityStackTest" time="0.003"/>
+  <testcase name="N 사이즈가 다 찼을 때 아이템을 푸쉬할 경우 실패해야함" classname="fundamental_concept.original.FixedCapacityStackTest" time="0.002"/>
+  <testcase name="아이템 요소가 존재하지 않을 때 팝할 경우 실패해야함" classname="fundamental_concept.original.FixedCapacityStackTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

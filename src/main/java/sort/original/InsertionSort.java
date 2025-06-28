@@ -1,4 +1,4 @@
-package sort;
+package sort.original;
 
 public final class InsertionSort<T extends Comparable> extends AbstractArraySort {
 

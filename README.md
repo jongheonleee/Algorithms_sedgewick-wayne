@@ -24,3 +24,10 @@
 
 ## 끄적끄적
 > - union find 초기 버전의 느낌은 각 지점마다 고유 id 부여하고 서로 연결되어 있을 경우 둘 중의 하나의 id로 통일해 나감 
+> - 항상 깔끔하게 해결하는 것은 아님, 되려 여러 방향으로 시도해서 도출된 고성능 알고리즘이 많음. 예를 들어 Insertion Sort -> Shell Sort 등등 
+> - 기본적인 알고리즘은 단순하게 동작하나 이를 개선하려고 다양한 시도를 통해 도출된 고급 알고리즘도 많음. 따라서, 항상 틀안에 갇혀 있는 사고보단 유연하고 도전적인 사고가 중요함 
+
+<br>
+
+## 레퍼런스 
+> - 직관적인 알고리즘 설명: https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk
